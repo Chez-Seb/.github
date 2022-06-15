@@ -1,12 +1,12 @@
-## Hi there 👋
+## Bienvenue ! 👋
 
-<!--
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Voici comment bien commencer:**
+
+🙋‍♀️ Le projet s'appelle Chez Seb, c'est un projet sur le thème du développment web et du web design !
+🌈 Tu peux y contribuer facilement !
+👩‍💻 Rejoins la communauté pour en discuter !
+🍿 Fun facts - Je me suis lever et je suis tomber
+🧙 Je suis l'unique créateur et vous êtes mes petits disciples !
+
